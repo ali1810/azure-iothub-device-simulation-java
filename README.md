@@ -22,4 +22,4 @@ Steps to follow
 
 We did it.
 All the best.
-Please feel to contribute. 
+Please feel free to contribute. 
